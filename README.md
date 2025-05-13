@@ -98,6 +98,6 @@ Bhagya Rekha Deenadayal – bd2585
 
 Yaswanth Kumar Damarla – yd3034
 
-Bhanu Dileep Reddy Maryada – bm3539
+Bhanu Dileep Reddy Maryada – bm3689
 
 📍 New York University, Tandon School of Engineering – Spring 2025
