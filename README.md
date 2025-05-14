@@ -8,6 +8,19 @@ This repository contains the code, experiments, and results for **Deep Learning 
 📄 **Project Report:** See `DL_Project.pdf` in the repository for the detailed report.
 
 ---
+## 🔗 Download Adversarial Test `.pt` Files
+
+Due to GitHub LFS limits, the adversarial test `.pt` files (~2.1 GB) are hosted externally.
+
+➡️ [Download `.pt` files from Google Drive](https://drive.google.com/file/d/1GWHvAMoUAy2_XNVK6INKA02-zD-4OGF2/view?usp=drive_link)
+
+After downloading, place them in the following directory:
+Adversarial Test images/
+├── Adversarial_Test_Set_1.pt
+├── Adversarial_Test_Set_2.pt
+├── Adversarial_Test_Set_3.pt
+└── Original_Test_Images.pt
+
 
 ## 📌 Overview
 
